@@ -1,0 +1,18 @@
+body{
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card .img-wrap{
+    height: 250px;
+    padding: .5rem;
+    display: block;
+    text-align: center;
+}
+
+.card img{
+    height: 100%;
+    width: auto;
+    object-fit: cover;
+    max-width: 100%;
+}
